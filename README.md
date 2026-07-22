@@ -62,21 +62,6 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=malikshahbaz12&repo=ek-delivery&theme=tokyonight&hide_border=true&title_color=00C9FF" width="45%"/>
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=malikshahbaz12&repo=ai-device-manager&theme=tokyonight&hide_border=true&title_color=00C9FF" width="45%"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=malikshahbaz12&repo=student-performance-predictor&theme=tokyonight&hide_border=true&title_color=00C9FF" width="45%"/>
-</a>
-
-</div>
-
 **🍔 Ek Delivery** — `Flutter` `Dart`
 Full-featured food ordering & delivery app with live order tracking, cart management, and smooth multi-screen navigation.
 
