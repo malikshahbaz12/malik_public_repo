@@ -1,102 +1,187 @@
 # malik_public_repo
-<h1 align="center">Hi there, I'm Malik Shahbaz 👋</h1>
-<h3 align="center">Freelance Software Developer | Flutter & Python Enthusiast | BS-IT Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+cross-platform+apps+with+Flutter;Solving+problems+with+Python+%26+Machine+Learning;Delivering+real+products+for+real+clients;Always+learning%2C+always+shipping." alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Malik%20Shahbaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Python%20%7C%20AI%2FML%20%7C%20Freelance%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=BS-IT+Student+%40+Bahria+University;Freelance+Developer+on+Upwork+%F0%9F%9A%80;Flutter+%26+Dart+Mobile+Developer;Python+%2F+Machine+Learning+Enthusiast;Shopify+%26+API+Integration+Specialist;Always+Building.+Always+Learning." alt="Typing SVG" />
 
----
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships-2C5364?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to internships"/>
+<img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge" alt="Status"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🚀 About Me
 
-- 🎓 BS-IT student at **Bahria University, Islamabad** (2023 – 2027)
-- 💼 Freelance developer on **Upwork**, delivering mobile apps and websites to international clients since 2023
-- 📱 Focused on **Flutter & Dart** for cross-platform mobile development
-- 🤖 Exploring **Machine Learning** and building AI-powered tools
-- 🛍️ Experienced in **Shopify store development**
-- 🌱 Currently sharpening my skills in **API integrations** and **AI-assisted development workflows**
-- 💬 Ask me about **Flutter, Python, ML, or freelance project delivery**
-- 📫 Reach me at **shehrozmalik294@gmail.com**
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
----
+```python
+class MalikShahbaz:
+    def __init__(self):
+        self.role = "BS-IT Student & Freelance Developer"
+        self.university = "Bahria University, Islamabad"
+        self.duration = "2023 - 2027"
+        self.focus = ["Flutter & Dart", "Python", "Machine Learning", "Shopify"]
+        self.platform = "Upwork — 5+ apps & websites delivered"
+        self.rating = "5-star across every engagement"
 
-## 🛠️ Tech Stack
+    def currently_exploring(self):
+        return ["API Integrations", "AI-Assisted Dev Workflows", "Backend Architectures"]
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+    def say_hi(self):
+        return "shehrozmalik294@gmail.com"
 
-#### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+me = MalikShahbaz()
+```
 
-#### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+- 🎓 BS-IT student at **Bahria University, Islamabad**, graduating 2027
+- 💼 Freelance developer delivering real products to real clients on **Upwork** since 2023
+- 📱 Deep focus on **Flutter & Dart** for cross-platform mobile apps
+- 🤖 Building practical tools with **Python & Machine Learning**
+- 🛍️ Hands-on experience building and customizing **Shopify** stores
+- 🌱 Currently leveling up in **API integrations** and **AI-assisted development workflows**
+- 💬 Ping me about **Flutter, Python, ML, or freelance project delivery**
 
-#### AI / Machine Learning
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<br clear="right"/>
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,cs,dart&theme=dark" />
+
+**Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" />
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,shopify&theme=dark" />
+
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📌 Featured Projects
 
-### 🍔 Ek Delivery — Food Ordering & Delivery App
-`Flutter` `Dart`
-Full-featured food delivery app with live order tracking and cart management, built with an intuitive UI and smooth multi-screen navigation for a seamless user experience.
+<div align="center">
 
-### 🖥️ AI-Powered Device Manager
-`Python` `Machine Learning`
-Real-time system monitor using ML classification to detect and flag malicious processes — continuously tracking CPU and memory usage with automated anomaly alerts.
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ek-delivery&theme=tokyonight&hide_border=true&title_color=00C9FF" width="45%"/>
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ai-device-manager&theme=tokyonight&hide_border=true&title_color=00C9FF" width="45%"/>
+</a>
 
-### 📊 Student Performance Predictor
-`Python` `Scikit-learn` `Big Data`
-ML models trained on historical student records to forecast academic outcomes, using data preprocessing and feature engineering pipelines on large-scale educational datasets.
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=student-performance-predictor&theme=tokyonight&hide_border=true&title_color=00C9FF" width="45%"/>
+</a>
 
----
+</div>
 
-## 💼 Freelance Work
+> 💡 **Note:** Pinned-repo cards above render automatically once the repo names match real repos on your GitHub — rename `ek-delivery`, `ai-device-manager`, and `student-performance-predictor` to your actual repo names (or pin them manually from your GitHub profile page instead).
 
-I've independently delivered **5+ mobile apps and websites** for international clients on Upwork — managing the full project lifecycle from requirements gathering to testing and delivery, with **5-star ratings** across every engagement and clear communication maintained across time zones.
+**🍔 Ek Delivery** — `Flutter` `Dart`
+Full-featured food ordering & delivery app with live order tracking, cart management, and smooth multi-screen navigation.
 
----
+**🖥️ AI-Powered Device Manager** — `Python` `Machine Learning`
+Real-time system monitor using ML classification to detect malicious processes, with continuous CPU/memory tracking and automated alerts.
 
-## 📈 GitHub Stats
+**📊 Student Performance Predictor** — `Python` `Scikit-learn` `Big Data`
+ML models trained on historical student records to forecast academic outcomes, with full data preprocessing and feature engineering pipelines.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+## 💼 Freelance Track Record
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+| 🌍 Clients Served | ⭐ Rating | 📦 Projects Delivered | 🕒 Active Since |
+|:---:|:---:|:---:|:---:|
+| International (Upwork) | 5.0 / 5.0 | 5+ apps & websites | 2023 |
 
-<p align="center">
-  <a href="mailto:shehrozmalik294@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</div>
 
-<p align="center"><i>"Building real software for real people — one project at a time."</i></p>
+Independently managed the **full project lifecycle** — requirements gathering, development, testing, and delivery — maintaining clear communication across time zones and consistently earning 5-star ratings.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="90%"/>
+
+</div>
+
+> 💡 Replace `YOUR_USERNAME` throughout this file with your real GitHub username to activate all stats cards.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> 🔧 **Setup required (one-time, ~2 min):** this animated snake — eating your contribution graph — is generated by a free GitHub Action, not a static image. Steps:
+> 1. In your `YOUR_USERNAME/YOUR_USERNAME` repo, go to **Actions → New workflow → set up a workflow yourself**.
+> 2. Paste the workflow from `Platane/snk` (search "Platane snk GitHub Action" for the exact YAML).
+> 3. Commit it — it runs daily and generates the SVG automatically at the path referenced above.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shehrozmalik294@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+<i>"Building real software for real people — one project at a time."</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
 
