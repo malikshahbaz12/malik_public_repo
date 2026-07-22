@@ -83,7 +83,6 @@ ML models trained on historical student records to forecast academic outcomes, w
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📈 GitHub Analytics
 
