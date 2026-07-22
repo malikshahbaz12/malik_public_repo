@@ -94,8 +94,6 @@ ML models trained on historical student records to forecast academic outcomes, w
 
 </div>
 
-> 💡 Replace `malikshahbaz12` throughout this file with your real GitHub username to activate all stats cards.
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 
