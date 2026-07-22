@@ -16,14 +16,37 @@
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-🎓 BS-IT student at Bahria University, Islamabad, graduating 2027
-💼 Freelance developer delivering real products to real clients on Upwork since 2023
-📱 Deep focus on Flutter & Dart for cross-platform mobile apps
-🤖 Building practical tools with Python & Machine Learning
-🛍️ Hands-on experience building and customizing Shopify stores
-🌱 Currently leveling up in API integrations and AI-assisted development workflows
-💬 Ping me about Flutter, Python, ML, or freelance project delivery
-<br clear="right"/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Malik%20Shahbaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Python%20%7C%20AI%2FML%20%7C%20Freelance%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=BS-IT+Student+%40+Bahria+University;Freelance+Developer+on+Upwork+%F0%9F%9A%80;Flutter+%26+Dart+Mobile+Developer;Python+%2F+Machine+Learning+Enthusiast;Shopify+%26+API+Integration+Specialist;Always+Building.+Always+Learning." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=malikshahbaz12&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships-2C5364?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to internships"/>
+<img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge" alt="Status"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🚀 About Me
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+- 🎓 BS-IT student at **Bahria University, Islamabad**, graduating 2027
+- 💼 Freelance developer delivering real products to real clients on **Upwork** since 2023
+- 📱 Deep focus on **Flutter & Dart** for cross-platform mobile apps
+- 🤖 Building practical tools with **Python & Machine Learning**
+- 🛍️ Hands-on experience building and customizing **Shopify** stores
+- 🌱 Currently leveling up in **API integrations** and **AI-assisted development workflows**
+- 💬 Ping me about **Flutter, Python, ML, or freelance project delivery**
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
@@ -70,8 +93,6 @@
 
 </div>
 
-> 💡 **Note:** Pinned-repo cards above render automatically once the repo names match real repos on your GitHub — rename `ek-delivery`, `ai-device-manager`, and `student-performance-predictor` to your actual repo names (or pin them manually from your GitHub profile page instead).
-
 **🍔 Ek Delivery** — `Flutter` `Dart`
 Full-featured food ordering & delivery app with live order tracking, cart management, and smooth multi-screen navigation.
 
@@ -93,8 +114,6 @@ ML models trained on historical student records to forecast academic outcomes, w
 
 </div>
 
-Independently managed the **full project lifecycle** — requirements gathering, development, testing, and delivery — maintaining clear communication across time zones and consistently earning 5-star ratings.
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📈 GitHub Analytics
@@ -113,7 +132,15 @@ Independently managed the **full project lifecycle** — requirements gathering,
 > 💡 Replace `malikshahbaz12` throughout this file with your real GitHub username to activate all stats cards.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-">
+
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=malikshahbaz12&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🌐 Let's Connect
 
