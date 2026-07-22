@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Malik%20Shahbaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Python%20%7C%20AI%2FML%20%7C%20Freelance%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=BS-IT+Student+%40+Bahria+University;Freelance+Developer+on+Upwork+%F0%9F%9A%80;Flutter+%26+Dart+Mobile+Developer;Python+%2F+Machine+Learning+Enthusiast;Shopify+%26+API+Integration+Specialist;Always+Building.+Always+Learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=BS-IT+Student+%40+Bahria+University;Freelance+Developer+%F0%9F%9A%80;Flutter+%26+Dart+Mobile+Developer;Python+%2F+Machine+Learning+Enthusiast;Shopify+%26+API+Integration+Specialist;Always+Building.+Always+Learning." alt="Typing SVG" />
 
 <br/>
 
@@ -93,8 +93,6 @@ me = MalikShahbaz()
 </a>
 
 </div>
-
-> 💡 **Note:** Pinned-repo cards above render automatically once the repo names match real repos on your GitHub — rename `ek-delivery`, `ai-device-manager`, and `student-performance-predictor` to your actual repo names (or pin them manually from your GitHub profile page instead).
 
 **🍔 Ek Delivery** — `Flutter` `Dart`
 Full-featured food ordering & delivery app with live order tracking, cart management, and smooth multi-screen navigation.
