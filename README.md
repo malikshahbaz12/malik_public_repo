@@ -16,19 +16,6 @@
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Malik%20Shahbaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Python%20%7C%20AI%2FML%20%7C%20Freelance%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=BS-IT+Student+%40+Bahria+University;Freelance+Developer+on+Upwork+%F0%9F%9A%80;Flutter+%26+Dart+Mobile+Developer;Python+%2F+Machine+Learning+Enthusiast;Shopify+%26+API+Integration+Specialist;Always+Building.+Always+Learning." alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=malikshahbaz12&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-2C5364?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to internships"/>
-<img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge" alt="Status"/>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
