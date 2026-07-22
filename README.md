@@ -18,24 +18,6 @@
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-```python
-class MalikShahbaz:
-    def __init__(self):
-        self.role = "BS-IT Student & Freelance Developer"
-        self.university = "Bahria University, Islamabad"
-        self.duration = "2023 - 2027"
-        self.focus = ["Flutter & Dart", "Python", "Machine Learning", "Shopify"]
-        self.platform = "Upwork — 5+ apps & websites delivered"
-        self.rating = "5-star across every engagement"
-
-    def currently_exploring(self):
-        return ["API Integrations", "AI-Assisted Dev Workflows", "Backend Architectures"]
-
-    def say_hi(self):
-        return "shehrozmalik294@gmail.com"
-
-me = MalikShahbaz()
-```
 
 - 🎓 BS-IT student at **Bahria University, Islamabad**, graduating 2027
 - 💼 Freelance developer delivering real products to real clients on **Upwork** since 2023
